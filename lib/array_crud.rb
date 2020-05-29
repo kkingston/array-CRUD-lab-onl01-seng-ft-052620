@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = [1, 2. 4. 6]
-  array << 14
+  array << "hello"
   
 end
 
