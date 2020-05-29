@@ -10,7 +10,7 @@ end
 def add_element_to_end_of_array(array, element)
   array = [1, 2. 4. 6]
 end
-array<< "hello"
+array << "hello"
 
 def add_element_to_start_of_array(array, element)
   
